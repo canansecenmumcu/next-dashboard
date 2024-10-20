@@ -30,6 +30,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.ts",
     "scripts/seed.js"
-  ],
+, "app/page.tsx", "app/layout.tsx", "app/ui/customers/table.tsx"  ],
   "exclude": ["node_modules"]
 }
